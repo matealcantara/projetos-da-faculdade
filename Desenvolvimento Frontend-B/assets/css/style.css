@@ -1,0 +1,22 @@
+.main {
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .item {
+    display: none;
+  }
+  
+  .item.active {
+    display: block;
+}
+
+.explicacao {
+    margin: 20px;
+    text-align: left;
+}
+
+img {
+    height: 400px;
+    width: 600px;
+}
